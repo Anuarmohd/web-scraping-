@@ -24,4 +24,4 @@ Hi, I am a Python developer specializing in web scraping and data extraction.
 
 ## Contact
 If you need a custom scraper built, feel free to connect with me! 
-Anuarmohd2006@gmail.com
+Anuarmohd2006 [at] gmail[dot] com
